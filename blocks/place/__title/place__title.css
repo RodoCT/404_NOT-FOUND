@@ -1,0 +1,17 @@
+.place__title{
+    width: 600px;
+    font-family: 'Space Mono', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+}
+
+@media screen and (max-width: 620px) {
+    .place__title{
+        max-width: 355px;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 71px;
+    }
+}

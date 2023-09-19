@@ -1,0 +1,9 @@
+.place__link{
+    font-family: "Space Mono", Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+    text-decoration: none;
+}

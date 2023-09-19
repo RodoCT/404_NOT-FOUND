@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-items: center;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 70px;
+}
+
+@media screen and (max-width: 620px) {
+    .header{
+        margin-left: 20px;
+    }
+}

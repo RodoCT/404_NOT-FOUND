@@ -1,0 +1,8 @@
+.place__button{
+    max-width: 216px;
+    background: #333333;
+    border-radius: 4px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
